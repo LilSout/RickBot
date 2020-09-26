@@ -1,0 +1,14 @@
+{
+  "name": "MR. RICK",
+  "version": "0.0.1",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "eris": "^0.13.3"
+  },
+  "engines": {
+    "node": "8.x"
+  }
+}
